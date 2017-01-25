@@ -12,8 +12,8 @@ $contact = array(
 	"status[1]" => 1, 
 	"field[2,0]" =>  "Femenino", // Valor sexo
 	"field[3,0]" =>  "Los Ríos", // Valor región 
-	"field[5,0]" =>  "11.111.111-1", // Valor RUT
-	"field[6,0]" =>  "Ingeniero", // Valor ocupación
+	"field[6,0]" =>  "11.111.111-1", // Valor RUT
+	"field[7,0]" =>  "Ingeniero", // Valor ocupación
 );
 
 $contact_sync = $ac->api("contact/sync", $contact);
