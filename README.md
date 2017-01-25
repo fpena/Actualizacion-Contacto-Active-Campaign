@@ -4,7 +4,7 @@ Estos valores se utilizan para asociar el formulario de la página web con campo
 Para regiones:
 - `"Metropolitana" => "Metropolitana de Santiago"`
 - `"I Región" => "Tarapacá"`
-- `"II Región" => "Antofagasta"
+- `"II Región" => "Antofagasta"`
 - `"III Región" => "Atacama"`
 - `"IV Región" => "Coquimbo"`
 - `"V Región" => "Valparaíso"`
@@ -38,4 +38,4 @@ Para variedades:
 
 Para sexo: 
 - `"Masculino" => "Masculino"`
-- `"Femenino" => "Femenino"
+- `"Femenino" => "Femenino"`
