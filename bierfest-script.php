@@ -1,7 +1,7 @@
 <?php
 
 define("ACTIVECAMPAIGN_URL", "https://cervecerakunstmann.api-us1.com");
-define("ACTIVECAMPAIGN_API_KEY", "69c18ada397454a9763f95125b0bf5d0a83af643a68ebf08a0c4fee8f08ebc39878f9a4d");
+define("ACTIVECAMPAIGN_API_KEY", "[key]");
 
 /*
 Para sexo: 
