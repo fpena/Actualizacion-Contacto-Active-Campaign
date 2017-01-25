@@ -3,44 +3,6 @@
 define("ACTIVECAMPAIGN_URL", "https://cervecerakunstmann.api-us1.com");
 define("ACTIVECAMPAIGN_API_KEY", "[key]");
 
-/*
-Para regiones:
-"Metropolitana" => "Metropolitana de Santiago"
-"I Región" => "Tarapacá"
-"II Región" => "Antofagasta"
-"III Región" => "Atacama"
-"IV Región" => "Coquimbo"
-"V Región" => "Valparaíso"
-"VI Región" => "O'Higgins"
-"VII Región" => "Maule"
-"VIII Región" => "Bío Bío"
-"IX Región" => "La Araucanía"
-"X Región" => "Los Lagos"
-"XI Región" => "Aysén"
-"XII Región" => "Magallanes"
-"XIV Región" => "Los Ríos"
-"XV Región" => "Arica y Parinacota"
-"Fuera de Chile" => "Fuera de Chile"
-
-Para variedades:
-"TOROBAYO" => "Torobayo"
-"LAGER" => "Lager"
-"BOCK" => "Bock"
-"LAGER SIN FILTRAR" => "Lager Sin Filtrar"
-"ARÁNDANOS" => "Arándano"
-"MIEL" => "Miel"
-"TRIGO" => "Trigo"
-"SIN ALCOHOL" => "Lager Sin Alcohol"
-"SOMMER PILS" => "Sommer Pils"
-"CHOCOLATE" => "Chocolate"
-"ANWANDTER" => "Anwandter"
-"DOPPEL BOCK" => "Doppelbock"
-"GRAN TOROBAYO" => "Gran Torobayo"
-"TOROBAYO SIN FILTRAR" => "Torobayo Sin Filtrar"
-"SESSION IPA" => "Session Ipa"
-
-*/
-
 require_once("includes/ActiveCampaign.class.php");
 $ac = new ActiveCampaign(ACTIVECAMPAIGN_URL, ACTIVECAMPAIGN_API_KEY);
 $contact = array(
