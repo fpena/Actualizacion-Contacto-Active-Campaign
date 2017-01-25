@@ -34,8 +34,8 @@ Para variedades:
 - `"DOPPEL BOCK" => "Doppelbock"`
 - `"GRAN TOROBAYO" => "Gran Torobayo"`
 - `"TOROBAYO SIN FILTRAR" => "Torobayo Sin Filtrar"`
-- `"SESSION IPA" => "Session Ipa"`
+- `"SESSION IPA" => "Session Ipa"
 
 Para sexo: 
 - `"Masculino" => "Masculino"`
-- `"Femenino" => "Femenino"
+- `"Femenino" => "Femenino"`
