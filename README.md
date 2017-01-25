@@ -20,21 +20,21 @@ Para regiones:
 - `"Fuera de Chile" => "Fuera de Chile"`
 
 Para variedades:
-- `"TOROBAYO" => "Torobayo"
-- `"LAGER" => "Lager"
-- `"BOCK" => "Bock"
-- `"LAGER SIN FILTRAR" => "Lager Sin Filtrar"
-- `"ARÁNDANOS" => "Arándano"
-- `"MIEL" => "Miel"
-- `"TRIGO" => "Trigo"
-- `"SIN ALCOHOL" => "Lager Sin Alcohol"
-- `"SOMMER PILS" => "Sommer Pils"
-- `"CHOCOLATE" => "Chocolate"
-- `"ANWANDTER" => "Anwandter"
-- `"DOPPEL BOCK" => "Doppelbock"
-- `"GRAN TOROBAYO" => "Gran Torobayo"
-- `"TOROBAYO SIN FILTRAR" => "Torobayo Sin Filtrar"
-- `"SESSION IPA" => "Session Ipa"
+- `"TOROBAYO" => "Torobayo"`
+- `"LAGER" => "Lager"`
+- `"BOCK" => "Bock"`
+- `"LAGER SIN FILTRAR" => "Lager Sin Filtrar"`
+- `"ARÁNDANOS" => "Arándano"`
+- `"MIEL" => "Miel"`
+- `"TRIGO" => "Trigo"`
+- `"SIN ALCOHOL" => "Lager Sin Alcohol"`
+- `"SOMMER PILS" => "Sommer Pils"`
+- `"CHOCOLATE" => "Chocolate"`
+- `"ANWANDTER" => "Anwandter"`
+- `"DOPPEL BOCK" => "Doppelbock"`
+- `"GRAN TOROBAYO" => "Gran Torobayo"`
+- `"TOROBAYO SIN FILTRAR" => "Torobayo Sin Filtrar"`
+- `"SESSION IPA" => "Session Ipa"`
 
 Para sexo: 
 - `"Masculino" => "Masculino"`
