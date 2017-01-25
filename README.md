@@ -2,22 +2,22 @@
 Estos valores se utilizan para asociar el formulario de la página web con campos en Active Campaign. 
 
 Para regiones:
-`"Metropolitana" => "Metropolitana de Santiago"`
-`"I Región" => "Tarapacá"`
-`"II Región" => "Antofagasta"
-`"III Región" => "Atacama"`
-`"IV Región" => "Coquimbo"`
-`"V Región" => "Valparaíso"`
-`"VI Región" => "O'Higgins"`
-`"VII Región" => "Maule"`
-`"VIII Región" => "Bío Bío"`
-`"IX Región" => "La Araucanía"`
-`"X Región" => "Los Lagos"`
-`"XI Región" => "Aysén"`
-`"XII Región" => "Magallanes"`
-`"XIV Región" => "Los Ríos"`
-`"XV Región" => "Arica y Parinacota"`
-`"Fuera de Chile" => "Fuera de Chile"`
+- `"Metropolitana" => "Metropolitana de Santiago"`
+- `"I Región" => "Tarapacá"`
+- `"II Región" => "Antofagasta"
+- `"III Región" => "Atacama"`
+- `"IV Región" => "Coquimbo"`
+- `"V Región" => "Valparaíso"`
+- `"VI Región" => "O'Higgins"`
+- `"VII Región" => "Maule"`
+- `"VIII Región" => "Bío Bío"`
+- `"IX Región" => "La Araucanía"`
+- `"X Región" => "Los Lagos"`
+- `"XI Región" => "Aysén"`
+- `"XII Región" => "Magallanes"`
+- `"XIV Región" => "Los Ríos"`
+- `"XV Región" => "Arica y Parinacota"`
+- `"Fuera de Chile" => "Fuera de Chile"`
 
 Para variedades:
 `"TOROBAYO" => "Torobayo"
